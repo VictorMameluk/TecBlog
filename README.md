@@ -10,5 +10,10 @@ colocando em colunas uma postagem principal no meio e nas laterais e links super
 <img src="https://github.com/VictorMameluk/TecBlog/blob/master/assets/tecblog1.png">
 
 
+# Autor:
+ 
+ ### Victor Mameluk 
+ 
+ https://www.linkedin.com/in/victor-mameluk-68309913a/
 
 
