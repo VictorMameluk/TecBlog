@@ -7,6 +7,8 @@ colocando em colunas uma postagem principal no meio e nas laterais e links super
 - HTML
 - CSS
 
+<img src="https://github.com/VictorMameluk/TecBlog/blob/master/assets/tecblog1.png">
+
 
 
 
