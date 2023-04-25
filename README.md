@@ -4,8 +4,8 @@ Nesse projeto Acadêmico coloquei em prática os conhecimentos adquiridos no cur
 colocando em colunas uma postagem principal no meio e nas laterais e links superiores para criação de menu.
 
 # tecnologias utilizadas
-- HTML
-- CSS
+<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img alt="css3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 
 <img src="https://github.com/VictorMameluk/TecBlog/blob/master/assets/tecblog1.png">
 
